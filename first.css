@@ -1,0 +1,8 @@
+:root {
+  --backGround: #eee;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
